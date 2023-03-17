@@ -33,6 +33,7 @@ This project focuses on whether customer will subscribe for the bank schemes or 
      * XGBoost Classifier
   
 ### Models Report:
+    ![Performance of models](images/model_report.png)
 
 ### Python Dependencies:
 * pandas
