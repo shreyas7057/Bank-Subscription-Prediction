@@ -6,6 +6,11 @@ This project focuses on whether customer will subscribe for the bank schemes or 
 ### Dataset
 * [Dataset](https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set) link from kaggle.
 
+
+### Models Report:
+![model_report](https://user-images.githubusercontent.com/34678255/225872690-ec48c454-6777-486c-9686-adb57db39d29.png)
+
+
 * Information about numerical features
 
 ![describe_df](https://user-images.githubusercontent.com/34678255/225874846-d445353c-5227-4684-9a8e-3d8ee38d3477.png)
@@ -45,10 +50,6 @@ KDEPlot to do scaling
      * KNN Classifier
      * RandomForest Classifier
      * XGBoost Classifier
-  
-### Models Report:
-![model_report](https://user-images.githubusercontent.com/34678255/225872690-ec48c454-6777-486c-9686-adb57db39d29.png)
-
 
 
 ### Python Dependencies:
